@@ -1,8 +1,8 @@
 
 # Title
-Employee Tracker
+Employee Tracker - https://youtu.be/LMvNjnkVZ78
 ## Description
-The Content Managment System (CMS) project uses Command line to interact with database info and gets data to be displayed.
+The Content Manaegment System (CMS) project uses Command line to interact with database info and gets data to be displayed.
 ## Installation
 npm install, npm inquirer, and mysql2.    
 ## Usage
